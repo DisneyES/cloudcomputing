@@ -171,7 +171,7 @@ if (isset($_COOKIE['userid'])) header('Location: user.php');
 							<!-- Copyright -->
 								<div class="copyright">
 									<ul class="menu">
-										<li>&copy; 2013 Stratosphere. All rights reserved.</li>
+										<li>&copy; 2017 Stratosphere. All rights reserved.</li>
 									</ul>
 								</div>
 							
